@@ -95,5 +95,20 @@ The Superstore Sales Performance Dashboard successfully delivers a clear and act
 This project strengthened my skills in Power BI, DAX, data modeling, visualization design, and business analytics. It also demonstrates my ability to convert raw data into insights that support strategic decision-making.
 As I continue to work on real-world datasets, my goal is to build more dashboards that reflect strong analytical thinking, attention to detail, and professional reporting skills.
 
+ ## 👨‍💻 Author
+
+Koneti Pavan Kalyan
+
+Aspiring Data Analyst | Power BI | SQL | Python | Excel
+
+Passionate about transforming raw data into meaningful insights through dashboards, statistical analysis, and data storytelling.
+
+📍 Location: Bengaluru, India
+
+
+🔗 LinkedIn: https://www.linkedin.com/in/pavankalyan585/
+
+📧 Email: konetipavankalyan225@gmail.com
+
 
 
