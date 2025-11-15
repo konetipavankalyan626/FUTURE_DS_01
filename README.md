@@ -100,6 +100,7 @@ As I continue to work on real-world datasets, my goal is to build more dashboard
 ### Koneti Pavan Kalyan
 
 Aspiring Data Analyst | Power BI | SQL | Python | Excel
+
 Passionate about transforming raw data into meaningful insights through dashboards, statistical analysis, and data storytelling.
 
 📍 Location: Bengaluru, India
