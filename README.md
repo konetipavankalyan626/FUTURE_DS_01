@@ -31,18 +31,26 @@ This dashboard helps business teams quickly understand performance and make info
 This Power BI dashboard helps:
 
 ✔ Identify best-selling categories and segments
+
 ✔ Compare region-wise performance
+
 ✔ Understand customer purchasing patterns
+
 ✔ Track sales and profit month-over-month
+
 ✔ Provide quick insights for business decisions
 
 ## 📂 Repository Structure
 
 📦 Superstore-Sales-Performance
 │
+
 ├── Sales_Report.pbix
+
 ├── README.md
+
 └── screenshots/
+      
       └── dashboard.png
 
 ## 🛠 Tools Used
