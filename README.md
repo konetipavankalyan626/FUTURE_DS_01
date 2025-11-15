@@ -1,20 +1,7 @@
  # 📊 Power BI – Superstore Sales Performance Dashboard
- This repository contains an interactive Power BI dashboard created to analyze Superstore Sales Performance across various categories, segments, and regions.
-The goal of this project is to showcase my data analysis and visualization skills using Power BI.
-## 🔍 Project Overview
+ 
+ This repository contains an interactive Power BI dashboard developed to analyze Superstore Sales Performance across regions, categories, customer segments, and ship modes.
 
-The Superstore Sales Performance Dashboard provides deep insights into:
+The dashboard provides clear, data-driven insights that help understand sales behavior, profitability patterns, and customer trends.
 
-• Sales, Profit & Quantity performance
 
-• Profit margin trends
-
-• Category and sub-category performance
-
-• Regional & segment-wise breakdown
-
-• Monthly sales trend analysis
-
-• Best and worst performing areas
-
-This dashboard helps business teams quickly understand performance and make informed decisions.
